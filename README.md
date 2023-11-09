@@ -1,5 +1,5 @@
 # PatikaAcademy.dev / CSharp-101 / Ödev 2
-Bu çalışma **Ödev 2: Koleksiyonlarla ilgili algoritma soruları** dersi için yapılmıştır. İçerisinde 1 ***.gitignore***, 1 ***README***, 1 ***LICENSE*** dosyası ve 3 ***Console uygulama*** barındırır.
+Bu çalışma **Ödev 2: Koleksiyonlarla ilgili algoritma soruları** dersi için yapılmıştır. İçerisinde 1 **.gitignore**, 1 **README**, 1 **LICENSE** dosyası ve 3 **Console uygulama** barındırır.
 
 ## Installation
 Öncelikle projeyi clonelayın.
